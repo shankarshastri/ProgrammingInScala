@@ -1,4 +1,4 @@
-#Scala: The Scalable Language
+# Scala: The Scalable Language
 
 <p align="center">
 <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png">
@@ -8,7 +8,7 @@
 
 ---
 
-####1.1 A LANGUAGE THAT GROWS ON YOU
+#### 1.1 A LANGUAGE THAT GROWS ON YOU
 Using Scala language gives a feel of using an modern scripting based language.
 ```scala
 var capital = Map("US" -> "Washington", "France" -> "Paris")
@@ -19,7 +19,7 @@ Scala gives you this fine-grained control if you need it, because maps in Scala 
 ```scala
 (Convinient, Flexible, Concise Style Programming) == Scala
 ```
-#####Growing new types:
+##### Growing new types:
 Scala is designed by extending and adapting different programming patterns into it.
 Example:
 ```scala
@@ -33,7 +33,7 @@ The above example could also be written in Scala using **java.math.BigInt**
 import java.math.BigInteger
 def factorial(x: BigInteger): BigInteger = if (x == BigInteger.ZERO) BigInteger.ONE else x.multiply(factorial(x.subtract(BigInteger.ONE)))
 ```
-#####Growing new control constructs
+##### Growing new control constructs
 >*Future is* ***Concurrency*** *And **Parallelism***.
 
 **Akka Library In Scala** uses actor-based model basically from **Erlang (Actor-Model)**.
@@ -41,14 +41,14 @@ Actor model prevent deadlock, helps in efficiency improvement for concurrent par
 
 ---
 
-####1.2 WHAT MAKES SCALA SCALABLE?
+#### 1.2 WHAT MAKES SCALA SCALABLE?
 
 Scala is a mixture of functional and object oriented programming paradigm. It becomes powerful due to collection of different paradigm in it.
 *   **Scala is Object Oriented.**
 *   **Scala is Functional.**
 
 ---
-####1.3 WHY SCALA?
+#### 1.3 WHY SCALA?
 Since Scala is a JVM based language, it is platform independent.
 *   **Scala is compatible**
 ```scala
