@@ -1,3 +1,4 @@
+## Chapter 1
 # Scala: The Scalable Language
 
 <p align="center">
@@ -96,3 +97,9 @@ val nameHasUpperCase = name.exists(_.isUpper)
 *   **Uniform Access Principle => Eiffel.**
 *   **Functional Programming Principles => ML, Haskell, Erlang.**
 *   **Operator Overloading And Templating => C++.**
+
+---
+#### CONCLUSION
+This chapter basically covered features of scala.
+
+---
