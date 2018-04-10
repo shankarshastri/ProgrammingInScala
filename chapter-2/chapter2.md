@@ -3,13 +3,22 @@
 
 >***The Best Way To Learn Scala Is To Program In It.***
 
-This chapter and the next chapter will enable programmer to develop useful programmes in Scala. Use the [chapter-2.sc]() (Scala Worksheet).
+This chapter and the next chapter will enable programmer to develop useful programmes in Scala. 
 
 **Useful Links:**
+
 [Scala Downloads](http://www.scala-lang.org/downloads)
+
 [Scala-IDE](http://scala-ide.org/)
+
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
 [Scastie](https://scastie.scala-lang.org/) (Online Compiler + Interpreter)
+
+**Resources**
+
+Use the [chapter-2.sc](https://github.com/shankarshastri/ProgrammingInScala/blob/master/chapter-2/chapter-2.sc) (Scala Worksheet).
+
 If using Scastie directly use this link for code: [Chapter-2 Scala Worksheet](https://scastie.scala-lang.org/shankarshastri/PLo5I6s0T8yHseSRi1Ljcg)
 
 ---
